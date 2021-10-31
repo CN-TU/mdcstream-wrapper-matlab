@@ -7,13 +7,15 @@ Wrapper to automatically generate MDCStream data collections
 
 ## How to start...
 1. Open MATLAB
-2. Include the folders containing MDCGen and MDCStream in the MATLAB path (with subfolders).
+2. Include the folders containing MDCGen, MDCStream, and mdcstream-wrapper in the MATLAB path (with subfolders).
 3. In the MATLAB environment, go to [mdcstream-wrapper]
 4. From the [mdcstream-matlab] folder run:
 > mdcwrapper_help
 5. To generate some example dataset collections, run: 
 > nine_collections
- 
+
+Dataset collections will be generated within the new [dataRoot] folder.
+
 ## References 
 Iglesias Vázquez, Félix (2021), “Data for Evaluation of Stream Data Analysis Algorithms”, Mendeley Data, V1, doi: 10.17632/c43kr4t7h8.1
 
