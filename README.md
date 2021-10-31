@@ -22,5 +22,7 @@ Félix Iglesias, Denis Ojdanic, Alexander Hartl, and Tanja Zseby. 2020. MDCStrea
   
 ## Dependencies
 You need MDCStream and MDCGen to run the mdcstream-wrapper.
+
 MDCGen can be downloaded using the following link: https://github.com/CN-TU/mdcgen-matlab
+
 MDCStream can be downloaded using the following link: https://github.com/CN-TU/mdcstream-matlab
