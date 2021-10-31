@@ -17,8 +17,6 @@ Wrapper to automatically generate MDCStream data collections
 Dataset collections will be generated within the new [dataRoot] folder.
 
 ## References 
-Iglesias Vázquez, Félix (2021), “Data for Evaluation of Stream Data Analysis Algorithms”, Mendeley Data, V1, doi: 10.17632/c43kr4t7h8.1
-
 Félix Iglesias, Denis Ojdanic, Alexander Hartl, and Tanja Zseby. 2020. MDCStream: Stream Data Generator for Testing Analysis Algorithms. In Proceedings of the 13th EAI International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS '20). Association for Computing Machinery, New York, NY, USA, 56–63. DOI:https://doi.org/10.1145/3388831.3388832
 
   
